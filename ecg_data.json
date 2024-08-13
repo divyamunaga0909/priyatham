@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "name": "Munaga Divyasri Akshaya",
+            "email": "21204033@rmd.ac.in",
+            "age": 20,
+            "sex": "Female",
+            "password": "div",
+            "report": null,
+            "precautions": null,
+            "ecg_image": null
+        },
+        {
+            "name": "Munaga Divyasri Akshaya",
+            "email": "divyamunaga39@gmail.com",
+            "age": 21,
+            "sex": "Female",
+            "password": "divs",
+            "report": null,
+            "precautions": null,
+            "ecg_image": null
+        },
+        {
+            "name": "Munaga Divyasri Akshaya",
+            "email": "divyamunaga39@gmail.com",
+            "age": 18,
+            "sex": "Female",
+            "password": "1234",
+            "report": null,
+            "precautions": null,
+            "ecg_image": null
+        }
+    ]
+}
